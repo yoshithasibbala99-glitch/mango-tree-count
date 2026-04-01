@@ -1,5 +1,0 @@
-streamlit
-ultralytics
-pillow
-opencv-python-headless==4.9.0.80
-pandas
